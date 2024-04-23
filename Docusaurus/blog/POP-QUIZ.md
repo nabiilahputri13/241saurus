@@ -10,6 +10,8 @@ This is our POP QUIZ posting!
 
 -- Ghina, Rana, Sita, Nabiilah, Sabina, Andi, and Azmi
 
+<!--truncate-->
+
 This writing is hidden below the "truncate" tag.
 
 This writing is hidden below the "truncate" tag.
