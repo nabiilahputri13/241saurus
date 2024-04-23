@@ -1,9 +1,8 @@
 ---
 slug: POP-QUIZ
 title: Pop Quiz
-date: 18 April 2024
 authors: [ghina2703, facesofgoblin, sitaamirasyarifah, nabiilahputri13, sabinamaritza, stronovski, azmiman52]
-tags: [POPQUIZ] [WEEK07] 
+tags: [POPQUIZ, WEEK07] 
 ---
 
 This is our POP QUIZ posting!
