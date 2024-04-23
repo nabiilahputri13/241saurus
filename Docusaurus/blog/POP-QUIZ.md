@@ -1,7 +1,7 @@
 ---
+slug: POP-QUIZ
 title: Pop Quiz
 date: 18 April 2024
-slug: POP-QUIZ
 authors: [ghina2703, facesofgoblin, sitaamirasyarifah, nabiilahputri13, sabinamaritza, stronovski, azmiman52]
 tags: [POPQUIZ] [WEEK07] 
 ---
